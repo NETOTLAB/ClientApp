@@ -1,0 +1,27 @@
+.card-body {
+}
+
+#card2 {
+  border-top: 4px solid #ffa500;
+}
+
+#card1 {
+  border-top: 4px solid #469fcd;
+}
+
+#card3 {
+  border-top: 4px solid #1e6183;
+}
+
+#left {
+  border-left: 4px solid #fafafc;
+}
+
+#optionlink:hover {
+  text-decoration: none;
+}
+
+#textbox {
+  border-left: 2px solid #1e6183;
+}
+
